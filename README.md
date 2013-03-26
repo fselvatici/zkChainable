@@ -1,7 +1,7 @@
 zkChainable
 ===========
 
-ZK Chainable form components
+ZK framework (www.zkoss.org) Chainable form components
 
 Let you define form components like Textbox or Listbox and chain them to dinamically change their content depending on the others.
 
